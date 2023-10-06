@@ -5,10 +5,12 @@ This repository contains a collection of pattern-based problems and solutions re
 
 
 #Introduction
+
 Pattern-based problems in DSA involve recognizing and solving problems that can be broken down into repeating sequences or structures. These patterns can help you develop efficient algorithms and code.
 
 
 #Problems-categories
+
 The problems in this repository are organized into the following categories:
 
 1. Number Patterns: Problems involving patterns of numbers or mathematical sequences.
@@ -21,6 +23,7 @@ Each category contains its own set of problems and solutions.
 
 
 #Contributing
+
 Contributions to this repository are welcome! If you'd like to add new pattern problems, improve existing solutions, or fix issues, please follow these guidelines:
 
 1. Fork the repository.
