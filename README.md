@@ -1,6 +1,7 @@
 # Pattern-problems
 
 Data Structures and Algorithms Pattern Problems
+
 This repository contains a collection of pattern-based problems and solutions related to Data Structures and Algorithms (DSA). These problems are commonly encountered in coding interviews and competitive programming contests and can help you improve your problem-solving skills.
 
 
